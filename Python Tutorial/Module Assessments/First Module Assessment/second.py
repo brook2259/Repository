@@ -1,0 +1,7 @@
+first_number = input('enter the first number:')
+second_number = input('enter the second number:')
+sum = int(first_number) + int(second_number)
+subtraction = int(first_number)  - int(second_number)
+multiplication = int(first_number)  * int(second_number)
+division = int(first_number)  / int(second_number)
+print('the four variables are:', sum, subtraction, multiplication, division)
